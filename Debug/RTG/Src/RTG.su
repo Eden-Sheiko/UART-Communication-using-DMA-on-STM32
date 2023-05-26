@@ -1,0 +1,4 @@
+../RTG/Src/RTG.c:50:6:print_pocket_content	16	static
+../RTG/Src/RTG.c:62:9:compare_pockets	16	static
+../RTG/Src/RTG.c:78:6:rtg_main	72	static
+../RTG/Src/RTG.c:125:6:HAL_UART_RxCpltCallback	16	static
